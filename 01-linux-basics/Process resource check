@@ -1,0 +1,5 @@
+## Process resource check
+
+- ps aux sorted by cpu
+- ps aux sorted by memory
+- identify before acting
